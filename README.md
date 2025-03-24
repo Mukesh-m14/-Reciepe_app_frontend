@@ -46,8 +46,9 @@ This project is the first step in building a complete full-stack application.
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/recipe-sharing-platform.git
-cd recipe-sharing-platform
+git clone https://github.com/mukesh-m14/Reciepe_app_frontend.git
+
+cd Reciepe_app_frontend
 
 2️⃣ Install dependencies:
 
