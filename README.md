@@ -1,3 +1,94 @@
+# Sharing Platform (Frontend - Week 1 Project).
+
+
+------
+
+🍽️ Recipe Sharing Platform
+
+📌 About the Project
+
+This is the frontend of a Recipe Sharing Platform built using React and Bootstrap. It allows users to:
+✔ Browse recipes (Home Page)
+✔ Log in to their account (Login Page)
+✔ Sign up as a new user (Register Page)
+
+This project is the first step in building a complete full-stack application.
+
+
+------
+
+🛠️ Tech Stack Used
+
+🔹 React – For UI components and state management
+🔹 Bootstrap – For responsive and modern styling
+🔹 Git & GitHub – For version control and collaboration
+
+
+------
+
+📂 Project Structure
+
+/frontend
+│── /src
+│   ├── /components  # Reusable UI components
+│   ├── /pages       # Home, Login, Register pages
+│   ├── /assets      # Images, icons, etc.
+│   ├── App.js       # Main React file
+│   ├── index.js     # Entry point
+│── /public
+│── package.json
+│── README.md
+
+
+------
+
+🚀 Installation & Setup
+
+1️⃣ Clone the repository:
+
+git clone https://github.com/your-username/recipe-sharing-platform.git
+cd recipe-sharing-platform
+
+2️⃣ Install dependencies:
+
+npm install
+
+3️⃣ Start the development server:
+
+npm start
+
+
+------
+
+📸 Screenshots
+
+🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻
+
+
+------
+
+📈 Future Improvements
+
+🔹 Connect to a Backend – Store and retrieve recipes
+🔹 Add Search & Filters – Find recipes easily
+🔹 User Profiles – Allow users to save and share recipes
+
+
+------
+
+📩 Contact & Contributions
+
+💡 Feel free to contribute by submitting issues or pull requests!
+
+🔗 GitHub: @mukesh-m14
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
