@@ -46,7 +46,7 @@ This project is the first step in building a complete full-stack application.
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/mukesh-m14/Reciepe_app_frontend.git
+git clone https://github.com/Mukesh-m14/-Reciepe_app_frontend.git
 
 cd Reciepe_app_frontend
 
