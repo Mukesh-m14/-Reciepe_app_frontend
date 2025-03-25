@@ -1,4 +1,4 @@
-# Sharing Platform (Frontend - Week 1 Project).
+# Recipe Sharing Platform (Frontend - Week 1 Project).
 
 
 ------
